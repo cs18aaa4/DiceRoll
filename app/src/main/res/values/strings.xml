@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DiceRoll</string>
+    <string name="ButtonLucky">I am feeling lucky</string>
+    <string name="enter_number_from_1_6">Enter Number From 1-6</string>
+    <string name="lets_play_d_icebreakers">Lets play D-ICEBREAKERS</string>
+    <string name="score">score</string>
 </resources>
